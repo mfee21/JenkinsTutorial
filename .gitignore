@@ -1,0 +1,15 @@
+# Ignore file named 'README.txt'
+
+# Ignore folder named 'output'
+
+# Ignore all files
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal
+*.exe
+*.pdb
+*.csproj.CoreCompileInputs.cache
+*.dll
+*.csproj.FileListAbsolute.txt
+*.csprojResolveAssemblyReference.cache
