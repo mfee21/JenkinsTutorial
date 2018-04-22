@@ -13,3 +13,5 @@
 *.dll
 *.csproj.FileListAbsolute.txt
 *.csprojResolveAssemblyReference.cache
+*.lock
+
